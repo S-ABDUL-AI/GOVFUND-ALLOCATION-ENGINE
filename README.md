@@ -1,4 +1,4 @@
-# Impact Allocation Engine
+# GovFund Allocation Engine
 
 A production style Streamlit app that helps NGOs and funders allocate a fixed budget across interventions using cost effectiveness, uncertainty adjustment, and scenario testing.
 
