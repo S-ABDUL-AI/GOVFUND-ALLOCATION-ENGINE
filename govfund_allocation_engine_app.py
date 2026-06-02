@@ -413,11 +413,10 @@ def run() -> None:
     st.markdown(
         f"""
 <div class="byline">
-  <strong style="color:{GOLD};">Built by Sherriff Abdul-Hamid</strong> — Product leader specializing in government digital services,
-  safety net benefits delivery, and decision support tools for underserved communities. Former Founder and CEO, Poverty 360
-  (25,000 plus beneficiaries served across West Africa). Partnered with Ghana's National Health Insurance Authority to enroll
-  1,250 vulnerable women into national health coverage. Directed 200 million plus dollars in resource allocation for USAID, UNDP,
-  and UKAID. Obama Foundation Leaders Award (Top 1.3 percent) · Mandela Washington Fellow (Top 0.3 percent) · Harvard Business School.<br><br>
+  <strong style="color:{GOLD};">Built by Sherriff Abdul-Hamid</strong> — Built by Sherriff Abdul-Hamid — Development economist and public-sector AI 
+researcher applying causal inference and cost-effectiveness analysis to social protection and public health systems. Founder and Executive Director, Poverty 
+360 — 58,000+ beneficiaries across five countries. Secured and managed multi-year institutional funding from USAID, UKAID, UNDP, and USADF across health, nutrition, and social protection 
+programmes. Obama Foundation Leaders Award (Top 1.3 percent) · Mandela Washington Fellow (Top 0.3 percent) · Harvard Business School.<br><br>
   <strong style="color:{GOLD};">Related tools:</strong> &nbsp;
   <a href="https://smart-resource-allocation-dashboard-eudzw5r2f9pbu4qyw3psez.streamlit.app">Public Budget Allocation Tool</a> &nbsp;·&nbsp;
   <a href="https://chpghrwawmvddoquvmniwm.streamlit.app">Medicaid Access Risk Monitor</a> &nbsp;·&nbsp;
