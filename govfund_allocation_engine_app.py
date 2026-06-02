@@ -379,7 +379,7 @@ def run() -> None:
     st.markdown("---")
     st.markdown('<div class="sec-lbl">Export</div>', unsafe_allow_html=True)
     st.markdown(
-        '<div class="sec-ttl">Download McKinsey style policy report</div><div class="sec-sub">'
+        '<div class="sec-ttl">Download policy report</div><div class="sec-sub">'
         "Generate a board ready memo with executive summary, malaria CEA allocation logic, "
         "risk implication action framing, and chart exhibits."
         "</div>",
