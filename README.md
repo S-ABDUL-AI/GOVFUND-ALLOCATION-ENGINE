@@ -143,3 +143,11 @@ This keeps the app resilient in both cloud and local environments.
 ## Disclaimer
 
 This is a transparent modelling aid, not a substitute for grant diligence, partner assessment, governance review, or board approval. Recommendations should be validated with local context, partner capacity, and implementation expertise.
+
+---
+
+## Author
+
+**Sherriff Abdul-Hamid**
+Data Scientist · Development Economist · Public Infrastructure Analytics
+[poverty360.org](https://poverty360.org) | [LinkedIn](https://www.linkedin.com/in/abdul-hamid-sherriff-08583354/) | [GitHub](https://github.com/S-ABDUL-AI)
